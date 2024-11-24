@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sherin</h1>
-<h3 align="center">Microsoft Student Learn Ambassador Beta | CSE Student |Aspiring Software Engineer|</h3>
+<h3 align="center">Microsoft Student Learn Ambassador Beta </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherinalexander&label=Profile%20views&color=0e75b6&style=flat" alt="sherinalexander" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sherinalexander" alt="sherinalexander" /></a> </p>
 
-- 👁️👁️ view my [portfolio](https://sherinalexander.github.io/)
-
-- 🐸I'm currently working on eating the frog **DSA 🥁**
+- 
 
 - 📱reach me through [Linkedin](https://www.linkedin.com/in/sherin-alexander-7a799a213/)
 
