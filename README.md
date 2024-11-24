@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sherinalexander" alt="sherinalexander" /></a> </p>
 
-- 
-
 - 📱reach me through [Linkedin](https://www.linkedin.com/in/sherin-alexander-7a799a213/)
 
 - 📝read my [blogs](https://hashnode.com/@sherinalexander)
