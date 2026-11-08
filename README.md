@@ -3,9 +3,7 @@
 <h2 align="center">Data Engineer </h2>
 <h3 align="center">Microsoft   Student Ambassador Beta </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sherinalexander&label=Profile%20views&color=0e75b6&style=flat" alt="sherinalexander" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sherinalexander" alt="sherinalexander" /></a> </p>
 
 - 📱reach me through [Linkedin](https://www.linkedin.com/in/sherin-alexander-7a799a213/)
 
