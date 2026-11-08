@@ -9,8 +9,6 @@
 
 - 📱reach me through [Linkedin](https://www.linkedin.com/in/sherin-alexander-7a799a213/)
 
-- 📝read my [blogs](https://hashnode.com/@sherinalexander)
-
 
 
 <h3 align="left">Connect with me:</h3>
