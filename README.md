@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sherin</h1>
-<h3 align="center">Microsoft  Learn Student Ambassador Beta </h3>
+
+<h2 align="center">Data Engineer </h2>
+<h3 align="center">Microsoft   Student Ambassador Beta </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherinalexander&label=Profile%20views&color=0e75b6&style=flat" alt="sherinalexander" /> </p>
 
@@ -9,9 +11,7 @@
 
 - 📝read my [blogs](https://hashnode.com/@sherinalexander)
 
-- 😉who will cry when you die **living with purpose 🧘‍♂️**
 
-- 🏋️‍♂️Practicing **Emotional Intelligence 🧠💡**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
